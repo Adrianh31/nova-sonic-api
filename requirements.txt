@@ -2,16 +2,5 @@ fastapi==0.115.0
 uvicorn[standard]==0.32.0
 pydantic==2.10.0
 boto3==1.35.0
-pyaudio==0.2.14
-python-multipart==0.0.12
 requests==2.32.0
-
-# AWS Bedrock SDK  
-aws-sdk-bedrock-runtime
-smithy-aws-core
-
-# Para audio processing
-numpy==2.1.0
-
-# Utilidades
-python-json-logger==2.0.7
+python-multipart==0.0.12
